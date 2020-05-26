@@ -20,7 +20,4 @@ int main(){
         cout<<"los numeros no son divisibles";
     }
     
-    
-    
-    
 }
